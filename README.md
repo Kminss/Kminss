@@ -11,8 +11,7 @@
 
   
 ## Todays
-
-[![Mins's GitHub stats](https://github-readme-stats.vercel.app/api?username=kminss&&count_private=true&show_title=true&show_icons=true&include_all_commits=true&disable_animations=true&&theme=default)](https://github.com/Kminss/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kminss&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kminss&layout=compact)
 
 </div>
 
