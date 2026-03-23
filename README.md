@@ -19,15 +19,6 @@
 
 </div>
 
-## Record
-<a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/
-        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-    
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=mocha-coding&theme=default)](https://mocha-coding.tistory.com/)
-
-
 ## About Me
   <a href="https://www.notion.so/MinJung-Kim-cee4dfe82e15492996a1ce19eacf1312?pvs=4"><img src="https://img.shields.io/badge/Notion-EB508D?style=for-the-badge&logo=Notion&logoColor=white"></a>
   <a href="mailto:kminss.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
